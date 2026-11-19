@@ -1,5 +1,4 @@
 # DevOps y agentes de IA
-# DevOps y agentes de IA
 API en FastAPI empaquetada con Docker.
 
 ## Cómo correrla
