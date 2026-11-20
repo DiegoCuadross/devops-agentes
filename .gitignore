@@ -2,3 +2,6 @@
 .env
 __pycache__/
 .vscode/
+agente/perfil.txt
+agente/oferta.txt
+agente/informe.md
